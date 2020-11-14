@@ -1,0 +1,7 @@
+
+cbc: linear 
+ipopt: nonliear,qp
+glpk: mix-integer 
+
+format: coding and writen 
+writen: typing：some number
