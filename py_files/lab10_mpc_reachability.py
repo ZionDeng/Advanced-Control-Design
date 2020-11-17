@@ -313,6 +313,7 @@ plt.legend([line1[0], line2[0]], ['Open-loop', 'Closed-loop']);
 plt.xlabel('x1')
 plt.ylabel('x2')
 plt.axis('equal')
+plt.show()
 
 # Plotting the polytopic sets and the closed loop trajectory 
 plt.clf()
