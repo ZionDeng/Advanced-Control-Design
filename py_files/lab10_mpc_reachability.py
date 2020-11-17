@@ -174,7 +174,7 @@ bf = Xf.b
 
 Q = np.eye(2)
 R = np.array([1]).reshape(1,1)
-P = Pinf
+P = Pinf # play here with different P
 N = 3
 x1U = np.pi/4
 x2U = np.pi/2
